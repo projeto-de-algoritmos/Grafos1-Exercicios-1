@@ -10,7 +10,7 @@
 </div>
 
 <div>
-         
+    <img src="https://github.com/projeto-de-algoritmos/Grafos1-Exercicios-1/blob/main/images/1082exemplo.jpg"         
 </div>
 
 <div>
@@ -29,4 +29,16 @@
     <p>Obs: os nodos devem sempre ser apresentados em ordem crescente e se há caminho de a até b significa que há caminho de b até a.</p>
 </div>
 
+<div>
+    <img src="https://github.com/projeto-de-algoritmos/Grafos1-Exercicios-1/blob/main/images/1082resolucao.jpg">
+</div>
 
+### Screenshots
+
+<div>
+    <img src="https://github.com/projeto-de-algoritmos/Grafos1-Exercicios-1/blob/main/images/1082resolvido.jpg">
+</div>
+
+<div>
+    <img src="https://github.com/projeto-de-algoritmos/Grafos1-Exercicios-1/blob/main/images/1082resolucaoterminal.jpg">
+</div>
